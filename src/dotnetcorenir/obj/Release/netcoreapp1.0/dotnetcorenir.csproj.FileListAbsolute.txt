@@ -1,0 +1,6 @@
+C:\Websites\dotnetcorenir\src\dotnetcorenir\bin\Release\netcoreapp1.0\dotnetcorenir.dll
+C:\Websites\dotnetcorenir\src\dotnetcorenir\bin\Release\netcoreapp1.0\dotnetcorenir.pdb
+C:\Websites\dotnetcorenir\src\dotnetcorenir\obj\Release\netcoreapp1.0\dotnetcorenir.csprojResolveAssemblyReference.cache
+C:\Websites\dotnetcorenir\src\dotnetcorenir\obj\Release\netcoreapp1.0\dotnetcorenir.AssemblyInfo.cs
+C:\Websites\dotnetcorenir\src\dotnetcorenir\obj\Release\netcoreapp1.0\dotnetcorenir.dll
+C:\Websites\dotnetcorenir\src\dotnetcorenir\obj\Release\netcoreapp1.0\dotnetcorenir.pdb
